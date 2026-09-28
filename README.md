@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:0891B2&height=200&section=header&text=SATYA%20PRAKASH&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20MERN%20Stack&descSize=18&descAlignY=62&animation=fadeIn" width="100%" />
