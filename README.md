@@ -1,32 +1,40 @@
+<!-- HEADER -->
+
 <div align="center">
 
-# 👋 Hi, I'm Satya Prakash
-
-### Frontend Developer • React.js • JavaScript • MERN Stack
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=180&section=header&text=Satya%20Prakash&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20MERN%20Stack&descAlignY=58&descSize=18" width="100%"/>
+<img width="900" height="280" alt="Satya Prakash - Bihar Software Solution" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=280&section=header&text=Satya%20Prakash&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20MERN%20Stack&descAlignY=58&descSize=20&animation=fadeIn" />
 
 </div>
 
+<!-- ANIMATED SUBTITLE -->
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Frontend+Developer+focused+on+React.js+%F0%9F%92%BB;Building+modern+and+responsive+web+applications+%F0%9F%9A%80;Exploring+MERN+Stack+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+clean+and+scalable+software+%E2%9A%A1;Always+learning.+Always+building.+%F0%9F%94%A5](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=720&lines=Frontend+Developer+%7C+React.js+%7C+JavaScript;Building+modern+and+responsive+web+applications+%F0%9F%92%BB;MERN+Stack+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Building+real-world+ERP+%26+management+systems+%F0%9F%9A%80;Turning+ideas+into+clean%2C+scalable+software+%E2%9A%A1;Always+learning.+Always+building.+Always+improving.+%F0%9F%94%A5](https://git.io/typing-svg)
 
 </div>
 
-<br/>
+<!-- QUICK STATS -->
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SatyaPrakashDev\&label=Profile%20Views\&color=2563EB\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=SatyaPrakashDev\&label=Profile+Views\&color=2563EB\&style=flat-square)
 
   
 
-![GitHub followers](https://img.shields.io/github/followers/SatyaPrakashDev?label=Followers\&style=for-the-badge\&color=06B6D4)
+![GitHub Stars](https://img.shields.io/github/stars/SatyaPrakashDev?label=Stars\&style=flat-square\&color=F59E0B)
 
   
 
-![GitHub Stars](https://img.shields.io/github/stars/SatyaPrakashDev?label=Stars\&style=for-the-badge\&color=F59E0B)
+![GitHub Followers](https://img.shields.io/github/followers/SatyaPrakashDev?label=Followers\&style=flat-square\&color=06B6D4)
+
+  
+
+![Frontend Developer](https://img.shields.io/badge/Frontend-Developer-2563EB?style=flat-square)
+
+  
+
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-47A248?style=flat-square)
 
 </div>
 
@@ -35,52 +43,51 @@
 ## `$ whoami`
 
 ```yaml
-name        : Satya Prakash
-username    : SatyaPrakashDev
+name         : Satya Prakash
 
-role        : Frontend Developer
-focus       : React.js · JavaScript · Tailwind CSS · MERN Stack
+alias        : SatyaPrakashDev
 
-frontend:
+location     : India 🇮🇳
+
+role         : Frontend Developer · MERN Stack Developer
+
+company:
+  name       : Bihar Software Solution
+  role       : Software Development
+  focus      : Web Development · Software Solutions · Modern Applications
+
+primary_focus:
+  - Frontend Development
   - React.js
   - JavaScript
-  - HTML5
-  - CSS3
   - Tailwind CSS
-  - Vite
-  - React Router
-  - Redux Toolkit
+  - Responsive UI Development
 
-backend:
+full_stack:
   - Node.js
   - Express.js
+  - MongoDB
   - REST APIs
   - JWT Authentication
 
-database:
-  - MongoDB
-  - MongoDB Atlas
-  - MySQL
-  - PostgreSQL
-
-mobile:
+additional:
   - Flutter
   - Dart
   - Firebase
-
-tools:
-  - Git
-  - GitHub
-  - VS Code
-  - Postman
-  - Figma
-  - Vercel
-  - Netlify
+  - MySQL
+  - PostgreSQL
 
 currently:
-  - Building production-style web applications
+  - Building real-world web applications
+  - Developing ERP & management systems
   - Improving React & MERN development skills
-  - Working on ERP and management systems
+  - Learning scalable software architecture
+
+projects:
+  - School ERP
+  - Library Seat Booking System
+  - Geeta Medicals
+  - MERN Applications
 
 open_to:
   - Frontend Opportunities
@@ -89,7 +96,7 @@ open_to:
   - Open Source Collaboration
 ```
 
-> 💡 **I enjoy turning ideas into clean, responsive and user-friendly digital experiences.**
+> *"I believe good software is built with clean code, thoughtful design, continuous learning, and a focus on solving real-world problems."*
 
 ---
 
@@ -97,92 +104,142 @@ open_to:
 
 ```text
 [START] ──▶ Started my journey in software development
-              │
-              ├─ Learned HTML, CSS & JavaScript
-              │
-              ├─ Started building responsive websites
-              │
-              ▼
-[FRONTEND] ──▶ React.js + Tailwind CSS + Vite
-              │
-              ├─ Component-based UI development
-              ├─ React Router
-              ├─ Redux Toolkit
-              └─ Modern responsive interfaces
-              │
-              ▼
-[FULL-STACK] ─▶ MERN Stack
-              │
-              ├─ Node.js
-              ├─ Express.js
-              ├─ MongoDB
-              ├─ REST APIs
-              └─ JWT Authentication
-              │
-              ▼
+
+           └─ Learned HTML, CSS & JavaScript
+           └─ Started building responsive web interfaces
+
+[FRONTEND] ──▶ React.js
+
+           ├─ React.js
+           ├─ JavaScript
+           ├─ Tailwind CSS
+           ├─ Vite
+           ├─ React Router
+           └─ Redux Toolkit
+
+[FULL-STACK] ──▶ MERN Stack
+
+           ├─ Node.js
+           ├─ Express.js
+           ├─ MongoDB
+           ├─ REST APIs
+           └─ JWT Authentication
+
 [PROJECTS] ──▶ Real-world application development
-              │
-              ├─ School ERP
-              ├─ Library Seat Booking System
-              ├─ Geeta Medicals
-              └─ Other MERN applications
-              │
-              ▼
-[NOW] ───────▶ Learning → Building → Improving 🚀
+
+           ├─ School ERP
+           ├─ Library Seat Booking System
+           ├─ Geeta Medicals
+           └─ Business & Management Applications
+
+[MOBILE] ──▶ Cross-platform development
+
+           ├─ Flutter
+           ├─ Dart
+           └─ Firebase
+
+[NOW] ──▶ Learning → Building → Improving 🚀
 ```
 
 ---
 
 ## `$ cat tech_stack.json`
 
-### 🎨 Frontend Development
+<details open>
 
-<p>
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-</p>
+<summary><b>🎨 Frontend Development</b></summary>
 
-### ⚙️ Backend Development
+<br>
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</p>
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-### 🗄️ Database
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 
-### 📱 Mobile Development
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-### 🛠️ Tools & Platforms
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</p>
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=reactrouter\&logoColor=white)
+
+</details>
+
+<details open>
+
+<summary><b>⚙️ Backend & APIs</b></summary>
+
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge\&logo=mongoose\&logoColor=white)
+
+</details>
+
+<details open>
+
+<summary><b>🗄️ Databases & Cloud</b></summary>
+
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+</details>
+
+<details open>
+
+<summary><b>📱 Mobile Development</b></summary>
+
+<br>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+</details>
+
+<details open>
+
+<summary><b>🛠️ Tools & Platforms</b></summary>
+
+<br>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
+
+</details>
 
 ---
 
@@ -190,34 +247,37 @@ open_to:
 
 ### 🏫 School ERP
 
-**Full-featured School Management & ERP platform**
+> A comprehensive school management and ERP platform designed to manage academic and administrative operations.
 
 ```text
-Features
+School ERP
 ├── Student Management
 ├── Teacher Management
 ├── Admission Management
+├── Class & Section Management
 ├── Attendance
 ├── Fees & Payments
-├── Exams & Admit Cards
+├── Examination Management
+├── Admit Card
 ├── Library Management
-├── Transport
+├── Transport Management
 ├── Inventory
-├── ID Card Management
+├── Notice Board
 ├── Reports
+├── ID Card Management
 └── Users & Roles
 ```
 
-**Tech:** React.js • Node.js • Express.js • MongoDB
+**Stack:** React.js · Node.js · Express.js · MongoDB
 
 ---
 
-### 📚 Library Seat Booking System
+### 📚 Library Seat Booking & Management System
 
-**Library seat booking and management platform**
+> A library management platform for seat booking, subscriptions, branches and student verification.
 
 ```text
-Features
+Library System
 ├── Super Admin
 ├── Admin
 ├── Student
@@ -225,22 +285,24 @@ Features
 ├── Branch Management
 ├── Seat Layout
 ├── Seat Booking
-├── 4 / 8 / 12 Hour Booking
+├── 4 Hour Booking
+├── 8 Hour Booking
+├── 12 Hour Booking
 ├── Subscription Plans
 ├── Payment Management
 └── Student Verification
 ```
 
-**Tech:** React.js • Node.js • Express.js • MongoDB
+**Stack:** React.js · Node.js · Express.js · MongoDB
 
 ---
 
 ### 💊 Geeta Medicals
 
-**Modern pharmacy / medicine e-commerce application**
+> A modern pharmacy and medicine e-commerce application focused on clean UI and easy product management.
 
 ```text
-Features
+Geeta Medicals
 ├── Authentication
 ├── Product Management
 ├── Medicine Listing
@@ -251,7 +313,7 @@ Features
 └── Responsive UI
 ```
 
-**Tech:** React.js • Tailwind CSS • Vite
+**Stack:** React.js · Tailwind CSS · Vite
 
 ---
 
@@ -259,9 +321,11 @@ Features
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SatyaPrakashDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SatyaPrakashDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyaPrakashDev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyaPrakashDev&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -271,7 +335,7 @@ Features
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SatyaPrakashDev&theme=tokyonight&hide_border=true" width="80%"/>
+<img src="https://streak-stats.demolab.com/?user=SatyaPrakashDev&theme=tokyonight&hide_border=true" width="80%" />
 
 </div>
 
@@ -281,7 +345,7 @@ Features
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SatyaPrakashDev&theme=react-dark&hide_border=true&area=true" width="100%"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SatyaPrakashDev\&theme=react-dark\&hide_border=true\&area=true)
 
 </div>
 
@@ -291,39 +355,93 @@ Features
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SatyaPrakashDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" width="90%"/>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SatyaPrakashDev\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=6)
 
 </div>
 
 ---
 
-## `$ cat current.focus`
+## `$ top --sort=contributions`
 
-```javascript
-const currentFocus = {
-    learning: [
-        "Advanced React.js",
-        "MERN Stack Development",
-        "Backend Architecture",
-        "REST API Design",
-        "Database Management"
-    ],
+<div align="center">
 
-    building: [
-        "School ERP",
-        "Library Management System",
-        "Business Management Applications",
-        "Modern React Applications"
-    ],
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=SatyaPrakashDev\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
 
-    improving: [
-        "Clean Code",
-        "UI/UX",
-        "System Design",
-        "Problem Solving",
-        "Production-ready Development"
-    ]
-};
+</div>
+
+---
+
+## `$ cat company.sh`
+
+```bash
+#!/bin/bash
+
+# Bihar Software Solution
+
+COMPANY="Bihar Software Solution"
+
+FOCUS=(
+
+  "🌐 Web Development — Modern websites & web applications"
+
+  "⚛️ Frontend Development — React.js & responsive interfaces"
+
+  "⚙️ Backend Development — Node.js & Express.js"
+
+  "🗄️ Database Solutions — MongoDB & SQL"
+
+  "📱 Mobile Development — Flutter applications"
+
+  "🏫 Management Systems — ERP & business applications"
+
+)
+
+for service in "${FOCUS[@]}"; do
+
+    echo "  ✦ $service"
+
+done
+
+echo ""
+
+echo "  💻 Building modern software solutions"
+
+echo "  🚀 Turning ideas into real-world applications"
+
+```
+
+---
+
+## `$ cat now.sh`
+
+```bash
+#!/bin/bash
+
+NOW=(
+
+  "⚛️ Building modern React.js applications"
+
+  "🚀 Developing full-stack MERN applications"
+
+  "🏫 Working on School ERP systems"
+
+  "📚 Building Library Management & Seat Booking systems"
+
+  "💊 Developing e-commerce applications"
+
+  "📱 Exploring Flutter & cross-platform development"
+
+  "🧠 Improving problem solving & software architecture"
+
+  "📚 Continuously learning new technologies"
+
+)
+
+for item in "${NOW[@]}"; do
+
+    echo "  ▶ $item"
+
+done
 ```
 
 ---
@@ -331,15 +449,19 @@ const currentFocus = {
 ## `$ cat developer.philosophy`
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   BUILD       → Create useful products               │
-│   LEARN       → Improve every day                    │
-│   SOLVE       → Think before writing code            │
-│   DESIGN      → Keep interfaces simple               │
-│   IMPROVE     → Refactor and grow                    │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   LEARN       → Keep improving every day            │
+│                                                     │
+│   BUILD       → Create real-world solutions         │
+│                                                     │
+│   SOLVE       → Understand problems before coding   │
+│                                                     │
+│   DESIGN      → Keep interfaces clean & intuitive   │
+│                                                     │
+│   IMPROVE     → Write better code every iteration   │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
 
 > **"Learn continuously. Build consistently. Improve relentlessly."**
@@ -350,17 +472,11 @@ const currentFocus = {
 
 <div align="center">
 
-<a href="https://github.com/SatyaPrakashDev">
-<img src="https://img.shields.io/badge/GitHub-SatyaPrakashDev-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-SatyaPrakashDev-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SatyaPrakashDev)
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](#)
 
-<a href="mailto:">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Bihar%20Software%20Solution-2563EB?style=for-the-badge\&logo=googlechrome\&logoColor=white)](#)
 
 </div>
 
@@ -374,7 +490,7 @@ const currentFocus = {
 
 **React.js • JavaScript • Tailwind CSS • Node.js • Express.js • MongoDB**
 
-I'm interested in opportunities where I can contribute to real-world products, learn from experienced developers, and continue growing as a software developer.
+I'm interested in working on real-world products, contributing to development teams, solving practical problems, and continuously growing as a software developer.
 
 </div>
 
@@ -382,4 +498,14 @@ I'm interested in opportunities where I can contribute to real-world products, l
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=25&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
+
+**💻 Satya Prakash · Frontend Developer**
+
+**Bihar Software Solution**
+
+⭐ *Building. Learning. Improving.*
+
+</div>
