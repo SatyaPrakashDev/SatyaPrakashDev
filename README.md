@@ -412,13 +412,45 @@ Deploy
 
 ---
 
-# 📊 GitHub Statistics
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SatyaPrakashDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+<img src="https://img.shields.io/github/followers/SatyaPrakashDev?label=GitHub%20Followers&style=for-the-badge&logo=github&logoColor=white&color=2563EB" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyaPrakashDev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://img.shields.io/github/stars/SatyaPrakashDev?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=F59E0B" />
+
+<img src="https://img.shields.io/github/repos/SatyaPrakashDev?label=Public%20Repositories&style=for-the-badge&logo=github&logoColor=white&color=0891B2" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SatyaPrakashDev&label=Profile%20Views&style=for-the-badge&color=2563EB" />
+
+</div>
+
+---
+
+## 💻 Development Focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
+
+<img src="https://img.shields.io/badge/JavaScript-Development-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" />
+
+<img src="https://img.shields.io/badge/Express.js-API-000000?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-UI-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />
 
 </div>
 
